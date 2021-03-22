@@ -10,7 +10,7 @@
   1. mind
   2. 1day 1commit
 - How to  achieve goal ? marked with :white_check_mark: or :negative_squared_cross_mark:
-- With whom ? [Dinoryong]() , [devhyojin]() ,  [icluster]()
+- Collaborator : [Dinoryong](https://github.com/Dinoryong) , [devhyojin]() ,  [icluster]()
 
 <br>
 
