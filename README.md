@@ -24,7 +24,7 @@
 
 | date   | problem                                                      | 영지 | 효진 | 준희 |
 | ------ | ------------------------------------------------------------ | ---- | ---- | ---- |
-| 03. 23 | [Reverse String](https://leetcode.com/problems/reverse-string/) |      |      |   :white_check_mark:   |
+| 03. 23 | [Reverse String](https://leetcode.com/problems/reverse-string/) |      |      |    :white_check_mark:   |
 | 03. 24 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |      |      |      |
 | 03. 25 | [Single Number](https://leetcode.com/problems/single-number/) |      |      |      |
 | 03. 26 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) |      |      |      |
