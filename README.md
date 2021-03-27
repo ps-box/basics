@@ -24,11 +24,11 @@
 
 | date   | problem                                                      | 영지 | 효진 | 준희 |
 | ------ | ------------------------------------------------------------ | ---- | ---- | ---- |
-| 03. 23 | [Reverse String](https://leetcode.com/problems/reverse-string/) |      |      |      |
-| 03. 24 | Maximum Depth of Binary Tree<br/>                            |      |      |      |
-| 03. 25 | Single Number<br/>                                           |      |      |      |
-| 03. 26 | Delete Node in a Linked List<br/>                            |      |      |      |
-| 03. 27 | Reverse Linked List<br/>                                     |      |      |      |
+| 03. 23 | [Reverse String](https://leetcode.com/problems/reverse-string/) |      |      |   :white_check_mark:   |
+| 03. 24 | Maximum Depth of Binary Tree<br/>                            |      |      |   :white_check_mark:   |
+| 03. 25 | Single Number<br/>                                           |      |      |   :white_check_mark:   |
+| 03. 26 | Delete Node in a Linked List<br/>                            |      |      |   :white_check_mark:   |
+| 03. 27 | Reverse Linked List<br/>                                     |      |      |   :white_check_mark:   |
 | 03. 28 | Fizz Buzz<br/>                                               |      |      |      |
 | 03. 29 | Majority Element<br/>                                        |      |      |      |
 | 03. 30 | Convert Sorted Array to Binary Search Tree<br/>              |      |      |      |
