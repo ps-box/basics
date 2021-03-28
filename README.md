@@ -30,7 +30,7 @@
 | 03. 25 | [Single Number](https://leetcode.com/problems/single-number/) | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 03. 26 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) |                    | :white_check_mark: | :white_check_mark: |
 | 03. 27 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |                    | :white_check_mark: | :white_check_mark: |
-| 03. 28 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)        |                    |                    |                    |
+| 03. 28 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)        |                    | :white_check_mark: |                    |
 | 03. 29 | [Majority Element](https://leetcode.com/problems/majority-element/) |                    |                    |                    |
 | 03. 30 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |                    |                    |                    |
 | 03. 31 | Move Zeroes<br/>                                             |                    |                    |                    |
