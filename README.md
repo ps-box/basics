@@ -1,16 +1,16 @@
 # basics
 
-----------
+---
 
 <br>
 
 ## :notebook_with_decorative_cover: Algorithm Study Challenge (feat.leetcode)
 
-- Goal : 
+- Goal :
   1. mind
   2. 1day 1commit
-- How to  achieve goal ? marked with :white_check_mark: or :negative_squared_cross_mark:
-- Collaborator : [Dinoryong](https://github.com/Dinoryong) , [devhyojin]() ,  [icluster]()
+- How to achieve goal ? marked with :white_check_mark: or :negative_squared_cross_mark:
+- Collaborator : [Dinoryong](https://github.com/Dinoryong) , [devhyojin]() , [icluster]()
 
 <br>
 
@@ -19,8 +19,6 @@
 ## :pencil2: Problemset
 
 <br>
-
-### leetcode_top interview questions_easy   [link](https://leetcode.com/problemset/algorithms/?difficulty=Easy)
 
 | date   | problem                                                      | 영지 | 효진 |        준희        |
 | ------ | ------------------------------------------------------------ | :--: | :--: | :----------------: |
@@ -54,18 +52,4 @@
 | 04. 19 | Min Stack<br/>                                               |      |      |                    |
 | 04. 20 | Count and Say<br/>                                           |      |      |                    |
 | 04. 21 | Plus One<br/>                                                |      |      |                    |
-
 It will be updated more...
-
-
-
-
-
-
-
-
-
-
-
-
-
