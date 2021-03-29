@@ -28,7 +28,7 @@
 | 03. 26 | Delete Node in a Linked List<br/>                            |      |      | :white_check_mark: |
 | 03. 27 | Reverse Linked List<br/>                                     |      |      | :white_check_mark: |
 | 03. 28 | Fizz Buzz<br/>                                               |      |      | :white_check_mark: |
-| 03. 29 | Majority Element<br/>                                        |      |      |                    |
+| 03. 29 | Majority Element<br/>                                        |      |      | :white_check_mark: |
 | 03. 30 | Convert Sorted Array to Binary Search Tree<br/>              |      |      |                    |
 | 03. 31 | Move Zeroes<br/>                                             |      |      |                    |
 | 04. 01 | Best Time to Buy and Sell Stock II<br/>                      |      |      |                    |
