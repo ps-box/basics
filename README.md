@@ -12,11 +12,7 @@
 - How to achieve goal ? marked with :white_check_mark: or :negative_squared_cross_mark:
 - Collaborator : [Dinoryong](https://github.com/Dinoryong) , [devhyojin]() , [icluster]()
 
-
-
 ## :pencil2: Problemset
-
-
 
 ### leetcode_top interview questions_easy [link](https://leetcode.com/problemset/algorithms/?difficulty=Easy)
 
@@ -27,9 +23,9 @@
 | 03. 25 | [Single Number](https://leetcode.com/problems/single-number/) | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 03. 26 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 03. 27 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| 03. 28 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)        | :white_check_mark: | :white_check_mark: |  :white_check_mark:  |
-| 03. 29 | [Majority Element](https://leetcode.com/problems/majority-element/) | :white_check_mark: | :white_check_mark: |  :white_check_mark:  |
-| 03. 30 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |                    | :white_check_mark: |  |
+| 03. 28 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)        | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| 03. 29 | [Majority Element](https://leetcode.com/problems/majority-element/) | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| 03. 30 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 03. 31 | Move Zeroes<br/>                                             |                    | :white_check_mark: |                    |
 | 04. 01 | Best Time to Buy and Sell Stock II<br/>                      |                    |                    |                    |
 | 04. 02 | Valid Anagram<br/>                                           |                    |                    |                    |
