@@ -27,7 +27,7 @@
 | 03. 29 | [Majority Element](https://leetcode.com/problems/majority-element/) | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 03. 30 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 03. 31 | Move Zeroes<br/>                                             | :white_check_mark: | :white_check_mark: |  :white_check_mark:  |
-| 04. 01 | Best Time to Buy and Sell Stock II<br/>                      |                    |                    |                    |
+| 04. 01 | Best Time to Buy and Sell Stock II<br/>                      |                    | :white_check_mark: |                    |
 | 04. 02 | Valid Anagram<br/>                                           |                    |                    |                    |
 | 04. 03 | Excel Sheet Column Number <br/>                              |                    |                    |                    |
 | 04. 04 | Contains Duplicate<br/>                                      |                    |                    |                    |
