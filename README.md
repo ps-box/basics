@@ -30,7 +30,7 @@
 | 04. 01 | Best Time to Buy and Sell Stock II<br/>                      | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 04. 02 | Valid Anagram<br/>                                           | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 04. 03 | Excel Sheet Column Number <br/>                              | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| 04. 04 | Contains Duplicate<br/>                                      |                    | :white_check_mark: |                    |
+| 04. 04 | Contains Duplicate<br/>                                      |                    | :white_check_mark: | :white_check_mark: |
 | 04. 05 | Roman to Integer<br/>                                        |                    |                    |                    |
 | 04. 06 | Merge Two Sorted Lists<br/>                                  |                    |                    |                    |
 | 04. 07 | Pascal's Triangle<br/>                                       |                    |                    |                    |
