@@ -31,7 +31,7 @@
 | 04. 02 | Valid Anagram<br/>                                           | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 04. 03 | Excel Sheet Column Number <br/>                              | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 04. 04 | Contains Duplicate<br/>                                      |                    | :white_check_mark: | :white_check_mark: |
-| 04. 05 | Roman to Integer<br/>                                        |                    |                    |                    |
+| 04. 05 | Roman to Integer<br/>                                        |                    | :white_check_mark: |                    |
 | 04. 06 | Merge Two Sorted Lists<br/>                                  |                    |                    |                    |
 | 04. 07 | Pascal's Triangle<br/>                                       |                    |                    |                    |
 | 04. 08 | First Unique Character in a String<br/>                      |                    |                    |                    |
