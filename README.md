@@ -26,40 +26,13 @@
 | 03. 28 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                                   | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 03. 29 | [Majority Element](https://leetcode.com/problems/majority-element/)                                                     | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 03. 30 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-| 03. 31 | Move Zeroes<br/>                                             | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| 04. 01 | Best Time to Buy and Sell Stock II<br/>                      | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| 04. 02 | Valid Anagram<br/>                                           | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| 04. 03 | Excel Sheet Column Number <br/>                              | :white_check_mark: | :white_check_mark: | :white_check_mark  |
-| 04. 04 | Contains Duplicate<br/>                                      | :white_check_mark: |                    |                    |
-| 04. 05 | Roman to Integer<br/>                                        | :white_check_mark: |                    |                    |
-| 04. 06 | Merge Two Sorted Lists<br/>                                  |          :white_check_mark:          |                    |                    |
-| 04. 07 | Pascal's Triangle<br/>                                       |                    |                    |                    |
-| 04. 08 | First Unique Character in a String<br/>                      |                    |                    |                    |
-| 04. 09 | Missing Number<br/>                                          |                    |                    |                    |
-| 04. 10 | Intersection of Two Arrays II<br/>                           |                    |                    |                    |
-| 04. 11 | Number of 1 Bits<br/>                                        |                    |                    |                    |
-| 04. 12 | Best Time to Buy and Sell Stock<br/>                         |                    |                    |                    |
-| 04. 13 | Happy Number<br/>                                            |                    |                    |                    |
-| 04. 14 | Climbing Stairs<br/>                                         |                    |                    |                    |
-| 04. 15 | Symmetric Tree<br/>                                          |                    |                    |                    |
-| 04. 16 | Maximum Subarray<br/>                                        |                    |                    |                    |
-| 04. 17 | Two Sum<br/>                                                 |                    |                    |                    |
-| 04. 18 | Remove Duplicates from Sorted Array<br/>                     |                    |                    |                    |
-| 04. 19 | Min Stack<br/>                                               |                    |                    |                    |
-| 04. 20 | Count and Say<br/>                                           |                    |                    |                    |
-| 04. 21 | Plus One<br/>                                                |                    |                    |                    |
-=======
->>>>>>> Stashed changes
 | 03. 31 | Move Zeroes<br/>                                                                                                        | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 04. 01 | Best Time to Buy and Sell Stock II<br/>                                                                                 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 04. 02 | Valid Anagram<br/>                                                                                                      | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 04. 03 | Excel Sheet Column Number <br/>                                                                                         | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 04. 04 | Contains Duplicate<br/>                                                                                                 |                    | :white_check_mark: | :white_check_mark: |
 | 04. 05 | Roman to Integer<br/>                                                                                                   |                    | :white_check_mark: | :white_check_mark: |
-| 04. 06 | Merge Two Sorted Lists<br/>                                                                                             |                    |                    |                    |
+| 04. 06 | Merge Two Sorted Lists<br/>                                                                                             |                    |                    | :white_check_mark: |
 | 04. 07 | Pascal's Triangle<br/>                                                                                                  |                    |                    |                    |
 | 04. 08 | First Unique Character in a String<br/>                                                                                 |                    |                    |                    |
 | 04. 09 | Missing Number<br/>                                                                                                     |                    |                    |                    |
@@ -75,9 +48,5 @@
 | 04. 19 | Min Stack<br/>                                                                                                          |                    |                    |                    |
 | 04. 20 | Count and Say<br/>                                                                                                      |                    |                    |                    |
 | 04. 21 | Plus One<br/>                                                                                                           |                    |                    |                    |
-<<<<<<< Updated upstream
-=======
->>>>>>> main
->>>>>>> Stashed changes
 
 It will be updated more...
