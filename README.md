@@ -30,10 +30,10 @@
 | 04. 01 | Best Time to Buy and Sell Stock II<br/>                      | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 04. 02 | Valid Anagram<br/>                                           | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 04. 03 | Excel Sheet Column Number <br/>                              | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| 04. 04 | Contains Duplicate<br/>                                      |                    | :white_check_mark: | :white_check_mark: |
-| 04. 05 | Roman to Integer<br/>                                        |                    | :white_check_mark: | :white_check_mark: |
-| 04. 06 | Merge Two Sorted Lists<br/>                                  |                    | :white_check_mark: | :white_check_mark: |
-| 04. 07 | Pascal's Triangle<br/>                                       |                    |                    | :white_check_mark: |
+| 04. 04 | Contains Duplicate<br/>                                      | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| 04. 05 | Roman to Integer<br/>                                        | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| 04. 06 | Merge Two Sorted Lists<br/>                                  | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| 04. 07 | Pascal's Triangle<br/>                                       | :white_check_mark: |                    | :white_check_mark: |
 | 04. 08 | First Unique Character in a String<br/>                      |                    |                    |                    |
 | 04. 09 | Missing Number<br/>                                          |                    |                    |                    |
 | 04. 10 | Intersection of Two Arrays II<br/>                           |                    |                    |                    |
