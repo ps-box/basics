@@ -34,8 +34,8 @@
 | 04. 05 | Roman to Integer<br/>                                        | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 04. 06 | Merge Two Sorted Lists<br/>                                  | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 04. 07 | Pascal's Triangle<br/>                                       | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| 04. 08 | First Unique Character in a String<br/>                      |                    |                    |                    |
-| 04. 09 | Missing Number<br/>                                          |                    |                    |                    |
+| 04. 08 | First Unique Character in a String<br/>                      |                    |                    | :white_check_mark: |
+| 04. 09 | Missing Number<br/>                                          |                    |                    | :white_check_mark: |
 | 04. 10 | Intersection of Two Arrays II<br/>                           |                    |                    |                    |
 | 04. 11 | Number of 1 Bits<br/>                                        |                    |                    |                    |
 | 04. 12 | Best Time to Buy and Sell Stock<br/>                         |                    |                    |                    |
