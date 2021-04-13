@@ -37,9 +37,9 @@
 | 04. 08 | First Unique Character in a String<br/>                      |                    | :white_check_mark: | :white_check_mark: |
 | 04. 09 | Missing Number<br/>                                          |                    | :white_check_mark: | :white_check_mark: |
 | 04. 10 | Intersection of Two Arrays II<br/>                           |                    | :white_check_mark: | :white_check_mark: |
-| 04. 11 | Number of 1 Bits<br/>                                        |                    | :white_check_mark: |                    |
-| 04. 12 | Best Time to Buy and Sell Stock<br/>                         |                    | :white_check_mark: |                    |
-| 04. 13 | Happy Number<br/>                                            |                    |                    |                    |
+| 04. 11 | Number of 1 Bits<br/>                                        |                    | :white_check_mark: | :white_check_mark: |
+| 04. 12 | Best Time to Buy and Sell Stock<br/>                         |                    | :white_check_mark: | :white_check_mark: |
+| 04. 13 | Happy Number<br/>                                            |                    |                    | :white_check_mark: |
 | 04. 14 | Climbing Stairs<br/>                                         |                    |                    |                    |
 | 04. 15 | Symmetric Tree<br/>                                          |                    |                    |                    |
 | 04. 16 | Maximum Subarray<br/>                                        |                    |                    |                    |
