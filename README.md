@@ -41,7 +41,7 @@
 | 04. 12 | Best Time to Buy and Sell Stock<br/>                         | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 04. 13 | Happy Number<br/>                                            | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 04. 14 | Climbing Stairs<br/>                                         | :white_check_mark: | :white_check_mark  | :white_check_mark: |
-| 04. 15 | Symmetric Tree<br/>                                          | :white_check_mark: |                    |                    |
+| 04. 15 | Symmetric Tree<br/>                                          | :white_check_mark: |                    | :white_check_mark: |
 | 04. 16 | Maximum Subarray<br/>                                        |                    |                    |                    |
 | 04. 17 | Two Sum<br/>                                                 |                    |                    |                    |
 | 04. 18 | Remove Duplicates from Sorted Array<br/>                     |                    |                    |                    |
