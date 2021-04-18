@@ -42,8 +42,8 @@
 | 04. 13 | Happy Number<br/>                                                                                                       | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 04. 14 | Climbing Stairs<br/>                                                                                                    | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 04. 15 | Symmetric Tree<br/>                                                                                                     | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| 04. 16 | Maximum Subarray<br/>                                                                                                   |                    |                    |   :white_check_mark: |
-| 04. 17 | Two Sum<br/>                                                                                                            |                    |                    |   :white_check_mark: |
+| 04. 16 | Maximum Subarray<br/>                                                                                                   |                    | :white_check_mark: |   :white_check_mark: |
+| 04. 17 | Two Sum<br/>                                                                                                            |                    | :white_check_mark: |   :white_check_mark: |
 | 04. 18 | Remove Duplicates from Sorted Array<br/>                                                                                |                    |                    |                    |
 | 04. 19 | Min Stack<br/>                                                                                                          |                    |                    |                    |
 | 04. 20 | Count and Say<br/>                                                                                                      |                    |                    |                    |
