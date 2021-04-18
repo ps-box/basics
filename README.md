@@ -44,7 +44,7 @@
 | 04. 15 | Symmetric Tree<br/>                                                                                                     | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 04. 16 | Maximum Subarray<br/>                                                                                                   |                    | :white_check_mark: |   :white_check_mark: |
 | 04. 17 | Two Sum<br/>                                                                                                            |                    | :white_check_mark: |   :white_check_mark: |
-| 04. 18 | Remove Duplicates from Sorted Array<br/>                                                                                |                    |                    |                    |
+| 04. 18 | Remove Duplicates from Sorted Array<br/>                                                                                |                    | :white_check_mark: |                    |
 | 04. 19 | Min Stack<br/>                                                                                                          |                    |                    |                    |
 | 04. 20 | Count and Say<br/>                                                                                                      |                    |                    |                    |
 | 04. 21 | Plus One<br/>                                                                                                           |                    |                    |                    |
