@@ -47,6 +47,6 @@
 | 04. 18 | Remove Duplicates from Sorted Array<br/>                                                                                |                    | :white_check_mark: |   :white_check_mark: |
 | 04. 19 | Min Stack<br/>                                                                                                          |                    | :white_check_mark: |   :white_check_mark: |
 | 04. 20 | Count and Say<br/>                                                                                                      |                    | :white_check_mark: | :white_check_mark: |
-| 04. 21 | Plus One<br/>                                                                                                           |                    | :white_check_mark: |  |
+| 04. 21 | Plus One<br/>                                                                                                           |                    | :white_check_mark: | :white_check_mark: |
 
 It will be updated more...
